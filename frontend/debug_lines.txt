@@ -1,0 +1,8 @@
+                {/* AI CHATBOARD AREA */}
+                <div style={{flex: 1, position: 'relative', background: 'var(--glass-bg)', backdropFilter: 'blur(30px)', border: '1px solid var(--glass-border)', borderRadius: '30px', display: 'flex', flexDirection: 'column', overflow: 'hidden', boxShadow: 'var(--glass-shadow)'}}>
+                   
+                   {/* Chat Header Gradient Bar */}
+                   <div style={{height: '3px', width: '100%', background: 'linear-gradient(to right, var(--primary), var(--secondary), var(--tertiary))'                 {/* AI CHATBOARD AREA - OVERHAULED FOR PREMIUM FEEL */}
+                 <div style={{flex: 1, position: 'relative', background: 'var(--glass-bg)', backdropFilter: 'blur(40px)', border: '1px solid var(--glass-border)', borderRadius: '32px', display: 'flex', flexDirection: 'column', overflow: 'hidden', boxShadow: 'var(--glass-shadow)', animation: 'fadeInScale 0.8s cubic-bezier(0.16, 1, 0.3, 1)'}}>
+                    
+                    {/* Chat Header Gradient Top Bar */}
